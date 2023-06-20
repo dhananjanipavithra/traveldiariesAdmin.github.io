@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/traveldiariesAdmin.github.io/static/css/main.765b71a8.css",
+    "main.js": "/traveldiariesAdmin.github.io/static/js/main.621b1443.js",
+    "index.html": "/traveldiariesAdmin.github.io/index.html",
+    "main.765b71a8.css.map": "/traveldiariesAdmin.github.io/static/css/main.765b71a8.css.map",
+    "main.621b1443.js.map": "/traveldiariesAdmin.github.io/static/js/main.621b1443.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.765b71a8.css",
+    "static/js/main.621b1443.js"
+  ]
+}
